@@ -10,7 +10,6 @@ import payroll.domain.Status;
 import payroll.repositories.EmployeeRepository;
 import payroll.repositories.OrderRepository;
 
-
 @Configuration
 @Slf4j
 class Bootstrap {
